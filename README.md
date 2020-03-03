@@ -3,7 +3,7 @@
 This is one project developed using different programming languages to demonstrate different approaches, pros and contras of these languages.
 
 ## Projects list
-- JavaScript (Node.js)
+- [JavaScript (Node.js)](javascript)
 - bash
 - Python
 - Ruby
