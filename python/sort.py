@@ -4,7 +4,7 @@ import sys
 # get console params
 test_array = map(lambda x: int(x) if float(x).is_integer() else float(x), sys.argv[1:])
 
-# develop
+# development
 def sort(input_array):
   array = input_array[:]
   has_changes = True

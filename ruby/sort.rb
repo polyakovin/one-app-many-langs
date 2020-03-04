@@ -1,7 +1,7 @@
 # get console params
 test_array = ARGV.map {|x| x.to_f % 1 == 0 ? x.to_i : x.to_f }
 
-# develop
+# development
 def sort(input_array)
   array = input_array
   has_changes = true

@@ -1,7 +1,7 @@
 // get console params
 const testArray = process.argv.slice(2).map(x => +x);
 
-// develop
+// development
 const sort = (inputArray) => {
   const array = [...inputArray];
   let hasChanges = true;

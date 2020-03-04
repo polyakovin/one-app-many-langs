@@ -10,7 +10,7 @@ public class Sort {
     System.out.println(Helpers.outputResult(inputArray, Helpers.toStringArray(sortedArray)));
   }
 
-  // develop
+  // development
   private static Float[] perform(Float[] array) {
     boolean hasChanges = true;
     while (hasChanges) {
