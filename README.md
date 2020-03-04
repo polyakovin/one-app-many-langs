@@ -2,7 +2,7 @@
 
 This is one project developed using different programming languages to demonstrate different approaches, pros and contras of these languages.
 
-## Projects list
+## Languages
 - 1С
 - Assembler
 - bash
@@ -16,7 +16,7 @@ This is one project developed using different programming languages to demonstra
 - Fortran
 - Go
 - Haskell
-- Java
+- [Java](java)
 - [JavaScript (Node.js)](javascript)
 - Kotlin
 - Lisp
@@ -31,24 +31,33 @@ This is one project developed using different programming languages to demonstra
 - Scala
 - TypeScript
 
+
 ## Frameworks
-- Angular
+
+### Backend
 - ASP .NET
-- Corona SDK
 - Django
-- Ionic
 - Koa
 - Laravel
-- NativeScript
-- React
-- ReactNative
 - Ruby-on-Rails
 - Sails
 - Spring
-- Svelte
 - Tornado
-- Unity
-- Unreal Engine
-- Vue
 - Yii
 
+### Web Frontend
+- Angular
+- React
+- Svelte
+- Vue
+
+### Mobile
+- Corona SDK
+- Ionic
+- NativeScript
+- ReactNative
+
+### Desktop
+- Electron
+- Unity
+- Unreal Engine
