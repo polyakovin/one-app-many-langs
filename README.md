@@ -19,12 +19,14 @@ This is one project developed using different programming languages to demonstra
 - Java
 - [JavaScript (Node.js)](javascript)
 - Kotlin
+- Lisp
 - Pascal
 - Perl
 - PHP
+- Processing
 - [Python](python)
 - R
-- Ruby
+- [Ruby](ruby)
 - Rust
 - Scala
 - TypeScript
