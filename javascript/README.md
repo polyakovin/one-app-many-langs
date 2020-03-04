@@ -1,6 +1,6 @@
 # JavaScript (Node.js)
 
-## Install
+## Installation
 
 Download and install [Node.js](https://nodejs.org/en/).
 
