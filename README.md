@@ -7,7 +7,7 @@ The goal is to create a minimal working code example and environment to run bubb
 ## Languages
 - 1С
 - Assembler
-- bash
+- Bash
 - Basic
 - C
 - C#
@@ -17,6 +17,7 @@ The goal is to create a minimal working code example and environment to run bubb
 - Crystal
 - Dart
 - Elixir
+- Elm
 - F#
 - Fortran
 - Go
