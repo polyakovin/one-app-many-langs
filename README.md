@@ -2,6 +2,8 @@
 
 This is one project developed using different programming languages to demonstrate different approaches, pros and contras of these languages.
 
+The goal is to create a minimal working code example and environment to run bubble sort function as a service, which can be launched from shell (sort of one microservice developed with different languages).
+
 ## Languages
 - 1С
 - Assembler
@@ -10,9 +12,12 @@ This is one project developed using different programming languages to demonstra
 - C
 - C#
 - C++
+- Clojure
 - CoffeeScript
+- Crystal
 - Dart
 - Elixir
+- F#
 - Fortran
 - Go
 - Haskell
@@ -29,6 +34,7 @@ This is one project developed using different programming languages to demonstra
 - [Ruby](ruby)
 - Rust
 - Scala
+- Swift
 - TypeScript
 
 
