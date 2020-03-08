@@ -15,7 +15,6 @@ The goal is to create a minimal working code example and environment to run bubb
 - Crystal
 - Elixir
 - F#
-- Flusk
 - Fortran
 - Go
 - Haskell
@@ -45,6 +44,7 @@ The goal is to create a minimal working code example and environment to run bubb
 ### Backend
 - ASP .NET
 - Django
+- Flusk
 - Koa
 - Laravel
 - Ruby-on-Rails
