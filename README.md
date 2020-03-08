@@ -12,19 +12,21 @@ The goal is to create a minimal working code example and environment to run bubb
 - C
 - C#
 - C++
-- Clojure
-- CoffeeScript
 - Crystal
-- Dart
 - Elixir
-- Elm
 - F#
+- Flusk
 - Fortran
 - Go
 - Haskell
 - [Java](java)
+  - [Clojure](clojure)
+  - Kotlin
 - [JavaScript (Node.js)](javascript)
-- Kotlin
+  - CoffeeScript
+  - Dart
+  - Elm
+  - TypeScript
 - Lisp
 - Pascal
 - Perl
@@ -36,7 +38,6 @@ The goal is to create a minimal working code example and environment to run bubb
 - Rust
 - Scala
 - Swift
-- TypeScript
 
 
 ## Frameworks

@@ -1,4 +1,4 @@
-// get console params
+// parsing console params
 const testArray = process.argv.slice(2).map(x => +x);
 
 // development

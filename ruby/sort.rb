@@ -1,4 +1,4 @@
-# get console params
+# parsing console params
 test_array = ARGV.map {|x| x.to_f % 1 == 0 ? x.to_i : x.to_f }
 
 # development

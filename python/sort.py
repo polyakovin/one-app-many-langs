@@ -1,7 +1,7 @@
 # required modules
 import sys
 
-# get console params
+# parsing console params
 test_array = map(lambda x: int(x) if float(x).is_integer() else float(x), sys.argv[1:])
 
 # development

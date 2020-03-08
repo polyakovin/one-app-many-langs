@@ -2,7 +2,7 @@
 import java.util.Arrays;
 
 public class Sort {
-  // get console params
+  // parsing console params
   public static void main(String[] inputArray) {
     Float[] floatInputArray = Helpers.toFloatArray(inputArray);
     Float[] sortedArray = Sort.perform(floatInputArray);
