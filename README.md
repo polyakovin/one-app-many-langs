@@ -21,7 +21,7 @@ The goal is to create a minimal working code example and environment to run bubb
 - Haskell
 - [Java](java)
   - [Clojure](clojure)
-  - Kotlin
+  - [Kotlin](kotlin)
 - [JavaScript (Node.js)](javascript)
   - CoffeeScript
   - Dart
